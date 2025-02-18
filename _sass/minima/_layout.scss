@@ -283,6 +283,8 @@
   h6 {
     @include relative-font-size(1.0625);
   }
+
+  strong { color:aqua}
 }
 
 
