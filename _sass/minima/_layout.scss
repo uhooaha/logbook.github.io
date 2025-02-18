@@ -285,6 +285,16 @@
   }
 
   strong { color:#E16A54} 
+  .post-desc {
+      width:100%;
+      padding:2rem;
+      border: 1px solid #eaeaea;
+      background: #f3f5f6;
+  }
+
+  .post-desc > p {
+      font-size: 1.25rem;
+  }
 }
 
 
