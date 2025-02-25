@@ -64,3 +64,5 @@ minima:
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"
+
+  category_list : [logbook, wandering]
