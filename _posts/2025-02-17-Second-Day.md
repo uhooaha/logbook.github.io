@@ -3,10 +3,8 @@ title: "투자일지 둘째 날"
 excerpt: "남들 다하는 거. 그까이거! 주식으로 굳건히 일어서보자."
 
 writer: uhooaha
-categories:
-  - logbook
-tags:
-  - [github blog, stock]
+categories: [logbook]
+tags: [github blog, stock]
 
 toc: true
 toc_sticky: true
