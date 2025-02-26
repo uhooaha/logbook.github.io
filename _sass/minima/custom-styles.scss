@@ -28,7 +28,9 @@
     .wrapper nav .header-category {
        width:200px; display: flex; justify-content: space-between; align-items: center;
     }
-
+    .wrapper nav .header-category ul {
+        display: flex; justify-content: space-between; align-items: center;
+    }
     .wrapper nav .header-category ul li {
         list-style-type: none;
     }
